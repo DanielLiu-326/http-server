@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.AvUSYOYUzD/config_parser/ConfigParser.cpp
+iostream
+-
+fstream
+-
+assert.h
+-
+ConfigParser.h
+/tmp/tmp.AvUSYOYUzD/config_parser/ConfigParser.h
+Util.h
+/tmp/tmp.AvUSYOYUzD/config_parser/Util.h
+
+/tmp/tmp.AvUSYOYUzD/config_parser/ConfigParser.h
+map
+-
+string
+-
+vector
+-
+
+/tmp/tmp.AvUSYOYUzD/config_parser/Util.cpp
+string
+-
+vector
+-
+regex
+-
+
+/tmp/tmp.AvUSYOYUzD/config_parser/Util.h
+string
+-
+vector
+-
+

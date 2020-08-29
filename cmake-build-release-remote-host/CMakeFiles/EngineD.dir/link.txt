@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -O3 -DNDEBUG   CMakeFiles/EngineD.dir/main.cpp.o CMakeFiles/EngineD.dir/Worker.cpp.o CMakeFiles/EngineD.dir/configs.cpp.o CMakeFiles/EngineD.dir/Server.cpp.o CMakeFiles/EngineD.dir/mainWorkCore.cpp.o  -o EngineD httpxx/libhttpxx.a config_parser/libconfig_parser.a 

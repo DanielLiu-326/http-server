@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MemoryPool"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\httpxx\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MemoryPool">
+				<Option output="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/MemoryPool.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 MemoryPool"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MemoryPool/fast">
+				<Option output="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/MemoryPool.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 MemoryPool/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 install/local"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 install"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 list_install_components"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="httpxx">
+				<Option output="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx/httpxx.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\httpxx\Makefile VERBOSE=1 httpxx"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\httpxx\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\httpxx\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\httpxx\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="httpxx/fast">
+				<Option output="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx/httpxx.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\httpxx\Makefile VERBOSE=1 httpxx/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\httpxx\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\httpxx\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\aptx4\Desktop\MemoryPool\cmake-build-debug\httpxx\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/FifoBuffer.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/MemoryPool.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/RawList.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/TcpPkgSpliter.cpp">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/TcpPkgSpliter.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/WebServer.cpp">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/WebServer.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/WorkGroup.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/Worker.cpp">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/Worker.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/BufferedMessage.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Error.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Error.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Flags.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Flags.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Message.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Message.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/MessageBuilder.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/MessageBuilder.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Method.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Method.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Request.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Request.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/RequestBuilder.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/RequestBuilder.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Response.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Response.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/ResponseBuilder.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/ResponseBuilder.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Url.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/Url.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/UserBufferedMessage.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/http-parser/http_parser.c">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/http-parser/http_parser.h">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/icompare.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/icompare.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/main.cpp">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/mainWorkCore.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/aptx4/Desktop/MemoryPool/httpxx/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\httpxx\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

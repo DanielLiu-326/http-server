@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MemoryPool"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\config_parser\;CMake Files\httpxx\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MemoryPool">
+				<Option output="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/MemoryPool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 MemoryPool"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MemoryPool/fast">
+				<Option output="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/MemoryPool" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 MemoryPool/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="config_parser">
+				<Option output="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/libconfig_parser.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/Makefile&quot;  VERBOSE=1 config_parser"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="config_parser/fast">
+				<Option output="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/libconfig_parser.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/Makefile&quot;  VERBOSE=1 config_parser/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/config_parser/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="httpxx">
+				<Option output="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/libhttpxx.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/Makefile&quot;  VERBOSE=1 httpxx"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="httpxx/fast">
+				<Option output="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/libhttpxx.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/Makefile&quot;  VERBOSE=1 httpxx/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.AvUSYOYUzD/cmake-build-debug-remote-host/httpxx/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/FifoBuffer.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/MemoryPool.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/RawList.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/Server.cpp">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/Server.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/WorkGroup.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/Worker.cpp">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/Worker.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/config_parser/ConfigParser.cpp">
+			<Option target="config_parser"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/config_parser/ConfigParser.h">
+			<Option target="config_parser"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/config_parser/Util.cpp">
+			<Option target="config_parser"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/config_parser/Util.h">
+			<Option target="config_parser"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/configs.cpp">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/configs.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/BufferedMessage.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Error.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Error.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Flags.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Flags.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Message.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Message.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/MessageBuilder.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/MessageBuilder.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Method.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Method.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Request.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Request.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/RequestBuilder.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/RequestBuilder.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Response.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Response.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/ResponseBuilder.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/ResponseBuilder.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Url.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/Url.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/UserBufferedMessage.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/http-parser/http_parser.c">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/http-parser/http_parser.h">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/icompare.cpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/icompare.hpp">
+			<Option target="httpxx"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/main.cpp">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/mainWorkCore.cpp">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/mainWorkCore.h">
+			<Option target="MemoryPool"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/config_parser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\config_parser\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.AvUSYOYUzD/httpxx/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\httpxx\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

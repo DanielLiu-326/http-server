@@ -1,0 +1,12 @@
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/CMakeFiles/MemoryPool.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx/CMakeFiles/rebuild_cache.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx/CMakeFiles/httpxx.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx/CMakeFiles/install/local.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx/CMakeFiles/install.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx/CMakeFiles/edit_cache.dir
+C:/Users/aptx4/Desktop/MemoryPool/cmake-build-debug/httpxx/CMakeFiles/list_install_components.dir
